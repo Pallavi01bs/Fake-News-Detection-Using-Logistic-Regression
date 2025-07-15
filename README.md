@@ -61,7 +61,7 @@ With the rapid rise of digital content and social media platforms, misinformatio
 pip install pandas numpy scikit-learn nltk
 ```
 
-Run the script:
+3. Run the script:
 
 ```bash
 python fake_news_detection.py
@@ -96,13 +96,12 @@ print(predict_news(example))  # Output: Fake News or Real News
  - Model Evaluation (Accuracy, F1, Confusion Matrix)
  - Serialization using Pickle
 
-   ## 📄 License
-This project is licensed under the [MIT License](LICENSE).
-
-
 ## 📚 References
  - Scikit-learn Documentation
  - NLTK Documentation
  - TF-IDF Explained
  - Logistic Regression in ML
  - Project Literature
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
