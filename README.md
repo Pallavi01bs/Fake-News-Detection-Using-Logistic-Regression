@@ -96,6 +96,10 @@ print(predict_news(example))  # Output: Fake News or Real News
  - Model Evaluation (Accuracy, F1, Confusion Matrix)
  - Serialization using Pickle
 
+   ## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
+
 ## 📚 References
  - Scikit-learn Documentation
  - NLTK Documentation
